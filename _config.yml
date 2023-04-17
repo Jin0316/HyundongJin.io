@@ -49,7 +49,7 @@ about_title: About Me
 about_profile_image: images/profile_hyundongjin.png
 
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hyundong and I'm a Ph.D candidate in ChunAng-University, Seoul, South Korea. 
+  Hi, my name's Hyundong and I'm a Ph.D candidate in Chung-Ang University, Seoul, South Korea. 
   
   My research interests include deep learning, machine learning, continual learning, and computer vision
 
