@@ -66,6 +66,7 @@ content:
         caption: Mar. 2022 - present
         description: | # this will include new lines to allow paragraphs
             Ph.D. of Computer Science Engineering (advisor: Eunwoo Kim)
+            link: 
             
       - layout: left
         title: Chung-Ang University
@@ -88,11 +89,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ECCV 2022 
+        title: Helpful or Harmful: Inter-Task Association in Continual Learning, HyundongJin and Eunwoo Kim, ECCV, 2022.
+        sub_title: ECCV 2022 
         link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
         # link_text: boringcompany.com
-        quote: >
-          Helpful or Harmful: Inter-Task Association in Continual Learning, HyundongJin and Eunwoo Kim, ECCV, 2022. 
         description: | # this will include new lines to allow paragraphs
             Abstract: When optimizing sequentially incoming tasks, deep neural networks generally suffer from catastrophic forgetting due to their lack of ability to maintain knowledge from old tasks. 
                     This may lead to a significant performance drop of the previously learned tasks. To alleviate this problem, studies on continual learning have been conducted as a countermeasure. 
