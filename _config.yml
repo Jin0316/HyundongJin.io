@@ -92,6 +92,7 @@ content:
       - layout: left
         title: ECCV 2022. 
         link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
+        sub_title: 
         caption: Helpful or Harmful: Inter-Task Association in Continual Learning, Hyundong Jin and Eunwoo Kim
         quote: >
         description: | # this will include new lines to allow paragraphs
