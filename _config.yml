@@ -55,6 +55,30 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: Continual Learning
 
 content:
+
+  - title: Education  # Title for the section
+    layout: list # Type of content section (list/text)
+    
+    content:
+      - layout: left
+        title: Chung-Ang University
+        caption: Mar. 2022 - present
+        description: | # this will include new lines to allow paragraphs
+            Ph.D. of Computer Science Engineering (advisor: Eunwoo Kim)
+    content:
+      - layout: left
+        title: Chung-Ang University
+        caption: Mar. 2020 - Feb.2022
+        description: | # this will include new lines to allow paragraphs
+            Master of Computer Science Engineering (advisor: Eunwoo Kim)
+            
+    content:
+      - layout: left
+        title: Chung-Ang University
+        caption: Mar. 2015 - Feb.2020
+        description: | # this will include new lines to allow paragraphs
+            Bachelor of Electrical and Electronics Engineering.
+            
   - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -89,7 +113,7 @@ content:
                     Additionally, we further prove the effectiveness of the proposed method through various analyses.
 
         
-  - title: Experience # Title for the section
+  - title: Education  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
