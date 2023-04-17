@@ -90,11 +90,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Helpful or Harmful: Inter-Task Association in Continual Learning
-        # link_text: boringcompany.com
-        sub_title: Hyundong Jin and Eunwoo Kim
+        title: ECCV 2022. 
         link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
-        caption: ECCV, 2022. 
+        caption: Helpful or Harmful: Inter-Task Association in Continual Learning, Hyundong Jin and Eunwoo Kim
         quote: >
         description: | # this will include new lines to allow paragraphs
             Abstract: When optimizing sequentially incoming tasks, deep neural networks generally suffer from catastrophic forgetting due to their lack of ability to maintain knowledge from old tasks. 
@@ -106,10 +104,10 @@ content:
                     We apply the proposed approach to both task- and class-incremental scenarios in continual learning, using a wide range of datasets from small to large scales.
                     Experimental results show that the proposed method outperforms a large variety of continual learning approaches for the experiments while effectively alleviating catastrophic forgetting.
       - layout: left
-        title: Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning
+        title: IEEE Access, 2022. 
         # link_text: boringcompany.com
-        sub_title: Hyundong Jin, Kimin Yoon, and Eunwoo Kim
-        link: boringcompany.com
+        sub_title: Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, Hyundong Jin, Kimin Yoon, and Eunwoo Kim 
+        link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
         caption: IEEE Access, 2022. 
         quote: >
         description: |
