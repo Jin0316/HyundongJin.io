@@ -92,6 +92,7 @@ content:
       - layout: left
         title: ECCV 2022. 
         link: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf
+        link_text: Paper 
         sub_title: 
         caption: 
         quote: >
@@ -109,6 +110,7 @@ content:
         title: IEEE Access 2022. 
         sub_title: 
         link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
+        link_text: Paper 
         caption:
         quote: >
            Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yoon, and Eunwoo Kim 
