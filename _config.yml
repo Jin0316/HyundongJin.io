@@ -59,21 +59,18 @@ content:
   - title: Education  # Title for the section
     layout: list # Type of content section (list/text)
     content:
-       -layout: left
         title: Chung-Ang University
         caption: Mar. 2022 - present
         quote: >
         description: | # this will include new lines to allow paragraphs
             Ph.D. of Computer Science Engineering (advisor: Eunwoo Kim)
             
-       -layout: left
         title: Chung-Ang University
         caption: Mar. 2020 - Feb.2022
         quote: >
         description: | # this will include new lines to allow paragraphs
             Master of Computer Science Engineering (advisor: Eunwoo Kim)
             
-       -layout: left
         title: Chung-Ang University
         caption: Mar. 2015 - Feb.2020
         quote: >
