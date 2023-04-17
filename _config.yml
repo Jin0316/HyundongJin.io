@@ -110,7 +110,7 @@ content:
         # link_text: boringcompany.com
         sub_title: 
         link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
-        caption: IEEE Access, 2022. 
+        caption: IEEE Access 2022. 
         quote: >
            Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yoon, and Eunwoo Kim 
         description: |
