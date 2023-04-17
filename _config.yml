@@ -95,7 +95,7 @@ content:
         sub_title: 
         caption: 
         quote: >
-          Helpful or Harmful: Inter-Task Association in Continual Learning, Hyundong Jin and Eunwoo Kim
+          Helpful or Harmful: Inter-Task Association in Continual Learning, **Hyundong Jin** and Eunwoo Kim
         description: | # this will include new lines to allow paragraphs
             Abstract: When optimizing sequentially incoming tasks, deep neural networks generally suffer from catastrophic forgetting due to their lack of ability to maintain knowledge from old tasks. 
                     This may lead to a significant performance drop of the previously learned tasks. To alleviate this problem, studies on continual learning have been conducted as a countermeasure. 
@@ -112,7 +112,7 @@ content:
         link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
         caption: IEEE Access, 2022. 
         quote: >
-           Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, Hyundong Jin, Kimin Yoon, and Eunwoo Kim 
+           Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yoon, and Eunwoo Kim 
         description: |
           Abstract: Catastrophic forgetting is a well-known tendency in continual learning of a deep neural network to forget previously learned knowledge when optimizing for sequentially incoming tasks. 
                     To address the issue, several methods have been proposed in research on continual learning. 
