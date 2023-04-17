@@ -49,10 +49,11 @@ about_title: About Me
 about_profile_image: images/profile_hyundongjin.png
 
 about_content: | # this will include new lines to allow paragraphs
-  I'm Hyundong Jin and I'm a Ph.D candidate in Chung-Ang University, Seoul, South Korea.
+  Hyundong Jin received the B.S degree in Eletrical and Electronics Engineering from Chung-Ang Univrsity, in 2020, 
+  and the M.S degree in School of Computer Science and Engineering from Chung-Ang University. 
   
-  
-  
+  He is currently Ph.D candidate School of Computer Science from Chung-Ang University. 
+ 
   My research interests include deep learning, machine learning, continual learning, and computer vision
 
   I am most skilled in: Continual Learning
