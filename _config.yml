@@ -93,8 +93,9 @@ content:
         title: ECCV 2022. 
         link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
         sub_title: 
-        caption: Helpful or Harmful: Inter-Task Association in Continual Learning, Hyundong Jin and Eunwoo Kim
+        caption: 
         quote: >
+          Helpful or Harmful: Inter-Task Association in Continual Learning, Hyundong Jin and Eunwoo Kim
         description: | # this will include new lines to allow paragraphs
             Abstract: When optimizing sequentially incoming tasks, deep neural networks generally suffer from catastrophic forgetting due to their lack of ability to maintain knowledge from old tasks. 
                     This may lead to a significant performance drop of the previously learned tasks. To alleviate this problem, studies on continual learning have been conducted as a countermeasure. 
