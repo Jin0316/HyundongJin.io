@@ -49,7 +49,7 @@ about_title: About Me
 about_profile_image: images/profile_hyundongjin.png
 
 about_content: | # this will include new lines to allow paragraphs
-  Hyundong Jin received the B.S degree in Eletrical and Electronics Engineering from Chung-Ang Univrsity, in 2020, 
+  Hyundong Jin received the B.S degree in Electrical and Electronics Engineering from Chung-Ang Univrsity, in 2020, 
   and the M.S degree in School of Computer Science and Engineering from Chung-Ang University in 2022. 
   
   He is currently Ph.D candidate in School of Computer Science of Chung-Ang University. 
@@ -67,13 +67,13 @@ content:
         title: Chung-Ang University
         caption: Mar. 2022 - present
         description: | # this will include new lines to allow paragraphs
-            Ph.D. of Computer Science Engineering (advisor: Eunwoo Kim)
+            Ph.D. of School of Computer Science and Engineering (advisor: Eunwoo Kim)
             
       - layout: left
         title: Chung-Ang University
         caption: Mar. 2020 - Feb.2022
         description: | # this will include new lines to allow paragraphs
-            Master of Computer Science Engineering (advisor: Eunwoo Kim)
+            Master of School of Computer Science and Engineering (advisor: Eunwoo Kim)
             
       - layout: left
         title: Chung-Ang University
