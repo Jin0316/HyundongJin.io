@@ -63,12 +63,14 @@ content:
       - layout: left
         title: Chung-Ang University
         caption: Mar. 2022 - present
+        quote: >
         description: | # this will include new lines to allow paragraphs
             Ph.D. of Computer Science Engineering (advisor: Eunwoo Kim)
     content:
       - layout: left
         title: Chung-Ang University
         caption: Mar. 2020 - Feb.2022
+        quote: >
         description: | # this will include new lines to allow paragraphs
             Master of Computer Science Engineering (advisor: Eunwoo Kim)
             
@@ -76,6 +78,7 @@ content:
       - layout: left
         title: Chung-Ang University
         caption: Mar. 2015 - Feb.2020
+        quote: >
         description: | # this will include new lines to allow paragraphs
             Bachelor of Electrical and Electronics Engineering.
             
@@ -86,6 +89,7 @@ content:
         title: Helpful or Harmful: Inter-Task Association in Continual Learning, HyundongJin and Eunwoo Kim, ECCV, 2022. 
         link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
         # link_text: Project Website
+        quote: >
         description: | # this will include new lines to allow paragraphs
           Abstract: When optimizing sequentially incoming tasks, deep neural networks generally suffer from catastrophic forgetting due to their lack of ability to maintain knowledge from old tasks. 
                     This may lead to a significant performance drop of the previously learned tasks. To alleviate this problem, studies on continual learning have been conducted as a countermeasure. 
@@ -99,6 +103,7 @@ content:
       - layout: top-middle
         title: Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, HyundongJin, Kimin Yoon, and Eunwoo Kim, IEEE Access, 2022. 
         link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
+        quote: >
         description: |
           Abstract: Catastrophic forgetting is a well-known tendency in continual learning of a deep neural network to forget previously learned knowledge when optimizing for sequentially incoming tasks. 
                     To address the issue, several methods have been proposed in research on continual learning. 
