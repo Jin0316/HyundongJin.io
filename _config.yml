@@ -108,10 +108,11 @@ content:
       - layout: left
         title: IEEE Access, 2022. 
         # link_text: boringcompany.com
-        sub_title: Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, Hyundong Jin, Kimin Yoon, and Eunwoo Kim 
+        sub_title: 
         link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
         caption: IEEE Access, 2022. 
         quote: >
+           Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, Hyundong Jin, Kimin Yoon, and Eunwoo Kim 
         description: |
           Abstract: Catastrophic forgetting is a well-known tendency in continual learning of a deep neural network to forget previously learned knowledge when optimizing for sequentially incoming tasks. 
                     To address the issue, several methods have been proposed in research on continual learning. 
@@ -152,14 +153,25 @@ content:
             
   - title: Invited Talk  # Title for the section
     layout: list # Type of content section (list/text)
-    content: 
+    content:
+      - layout: left
         title: Feb. 2023
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 
+        quote: >
         description: | # this will include new lines to allow paragraphs
-          2023 Korean Computer Vision Society (KCVS), Continual Learning session.
-
+            2023 Korean Computer Vision Society (KCVS), Continual Learning session.
+      - layout: left
         title: Dec. 2023
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 
+        quote: >
         description: | # this will include new lines to allow paragraphs
-          2022 Korean Artificial Intelligence Association (KAIA) and NAVER, CV / NLP session. 
+            2022 Korean Artificial Intelligence Association (KAIA) and NAVER, CV / NLP session. 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
