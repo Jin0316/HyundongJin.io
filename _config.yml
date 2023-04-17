@@ -67,19 +67,19 @@ content:
         title: Chung-Ang University
         caption: Mar. 2022 - present
         description: | # this will include new lines to allow paragraphs
-            Ph.D. of School of Computer Science and Engineering (advisor: Eunwoo Kim)
+            Ph.D. Candidate - School of Computer Science and Engineering (advisor: Eunwoo Kim)
             
       - layout: left
         title: Chung-Ang University
         caption: Mar. 2020 - Feb.2022
         description: | # this will include new lines to allow paragraphs
-            Master of School of Computer Science and Engineering (advisor: Eunwoo Kim)
+            Master degree - School of Computer Science and Engineering (advisor: Eunwoo Kim)
             
       - layout: left
         title: Chung-Ang University
         caption: Mar. 2015 - Feb.2020
         description: | # this will include new lines to allow paragraphs
-            Bachelor of Electrical and Electronics Engineering.
+            Bachelor degree - Electrical and Electronics Engineering.
 
 ##### Paper #####
 
