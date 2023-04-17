@@ -49,7 +49,9 @@ about_title: About Me
 about_profile_image: images/profile_hyundongjin.png
 
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Hyundong and I'm a Ph.D candidate in Chung-Ang University, Seoul, South Korea. 
+  I'm Hyundong Jin and I'm a Ph.D candidate in Chung-Ang University, Seoul, South Korea.
+  
+  
   
   My research interests include deep learning, machine learning, continual learning, and computer vision
 
@@ -107,7 +109,7 @@ content:
         link_text: [Link to Paper]
         caption: Impact Factor 3.367
         quote: >
-           Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yoon, and Eunwoo Kim 
+           Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yun, and Eunwoo Kim 
         description: |
           Abstract: Catastrophic forgetting is a well-known tendency in continual learning of a deep neural network to forget previously learned knowledge when optimizing for sequentially incoming tasks. 
                     To address the issue, several methods have been proposed in research on continual learning. 
