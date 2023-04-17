@@ -91,7 +91,7 @@ content:
       - layout: left
         title: Helpful or Harmful: Inter-Task Association in Continual Learning, HyundongJin and Eunwoo Kim,
         sub_title: ECCV 2022 
-        link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
+        # link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
         # link_text: boringcompany.com
         description: | # this will include new lines to allow paragraphs
             Abstract: When optimizing sequentially incoming tasks, deep neural networks generally suffer from catastrophic forgetting due to their lack of ability to maintain knowledge from old tasks. 
@@ -102,6 +102,7 @@ content:
                     In addition, by introducing a sensitivity measure to the loss of the current task from the associated tasks, we find cooperative relations between tasks while alleviating harmful interference. 
                     We apply the proposed approach to both task- and class-incremental scenarios in continual learning, using a wide range of datasets from small to large scales.
                     Experimental results show that the proposed method outperforms a large variety of continual learning approaches for the experiments while effectively alleviating catastrophic forgetting.
+      
       - layout: left
         title: Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning
         sub_title: IEEE Access, 2022. 
