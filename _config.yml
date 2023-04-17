@@ -54,12 +54,12 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: Continual Learning
 
 content:
-  - title: Projects # Title for the section
+  - title: Papers # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Helpful or Harmful: Inter-Task Association in Continual Learning, HyundongJin and Eunwoo Kim, ECCV, 2022. 
+        link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
