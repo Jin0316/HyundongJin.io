@@ -66,15 +66,14 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             Ph.D. of Computer Science Engineering (advisor: Eunwoo Kim)
-    content:
-      - layout: left
+
+        - layout: left
         title: Chung-Ang University
         caption: Mar. 2020 - Feb.2022
         quote: >
         description: | # this will include new lines to allow paragraphs
             Master of Computer Science Engineering (advisor: Eunwoo Kim)
             
-    content:
       - layout: left
         title: Chung-Ang University
         caption: Mar. 2015 - Feb.2020
@@ -98,12 +97,11 @@ content:
 
   - title: Invited Talk # Title for the section
     layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Feb. 2023
         description: | # this will include new lines to allow paragraphs
           2023 Korean Computer Vision Society (KCVS), Continual Learning session.
-    content:
+
       - layout: left
         title: Dec. 2023
         description: | # this will include new lines to allow paragraphs
