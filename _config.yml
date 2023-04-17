@@ -85,42 +85,31 @@ content:
         description: | # this will include new lines to allow paragraphs
             Bachelor of Electrical and Electronics Engineering.
 
-# Paper 
+##### Paper #####
+
   - title: Published Papers  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Helpful or Harmful: Inter-Task Association in Continual Learning, HyundongJin and Eunwoo Kim,
-        sub_title: ECCV 2022 
-        # link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
+        title: The Boring Company
+        link: boringcompany.com
         # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Abstract: When optimizing sequentially incoming tasks, deep neural networks generally suffer from catastrophic forgetting due to their lack of ability to maintain knowledge from old tasks. 
-                    This may lead to a significant performance drop of the previously learned tasks. To alleviate this problem, studies on continual learning have been conducted as a countermeasure. 
-                    Nevertheless, it suffers from an increase in computational cost due to the expansion of the network size or a change in knowledge that is favorably linked to previous tasks. 
-                    In this work, we propose a novel approach to differentiate helpful and harmful information for old tasks using a model search to learn a current task effectively. 
-                    Given a new task, the proposed method discovers an underlying association knowledge from old tasks, which can provide additional support in acquiring the new task knowledge. 
-                    In addition, by introducing a sensitivity measure to the loss of the current task from the associated tasks, we find cooperative relations between tasks while alleviating harmful interference. 
-                    We apply the proposed approach to both task- and class-incremental scenarios in continual learning, using a wide range of datasets from small to large scales.
-                    Experimental results show that the proposed method outperforms a large variety of continual learning approaches for the experiments while effectively alleviating catastrophic forgetting.
-      
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
       - layout: left
-        title: Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning
-        sub_title: IEEE Access, 2022. 
-        link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
+        title: The Boring Company
+        link: boringcompany.com
         # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Abstract: Catastrophic forgetting is a well-known tendency in continual learning of a deep neural network to forget previously learned knowledge when optimizing for sequentially incoming tasks. 
-                    To address the issue, several methods have been proposed in research on continual learning. 
-                    However, these methods cannot preserve the previously learned knowledge when training for a new task. 
-                    Moreover, these methods are susceptible to negative interference between tasks, which may lead to catastrophic forgetting. 
-                    It even becomes increasingly severe when there exists a notable gap between the domains of tasks. 
-                    This paper proposes a novel method of controlling gates to select a subset of parameters learned for old tasks, which are then used to optimize a new task while avoiding negative interference efficiently. 
-                    The proposed approach executes the subset of old parameters that provides positive responses by evaluating the effect when the old and new parameters are used together. 
-                    The execution or skipping of old parameters through the gates is based on several responses across the network. 
-                    We evaluate the proposed method in different continual learning scenarios involving image classification datasets. 
-                    The proposed method outperforms other competitive methods and requires fewer parameters than the state-of-the-art methods during inference by applying the proposed gating mechanism that selectively involves a set of old parameters that provides positive prior knowledge to newer tasks. 
-                    Additionally, we further prove the effectiveness of the proposed method through various analyses.
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
             
   - title: Education  # Title for the section
     layout: list # Type of content section (list/text)
