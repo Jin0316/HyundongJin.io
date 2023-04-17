@@ -146,7 +146,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             2022 Korean Artificial Intelligence Association (KAIA) and NAVER, CV / NLP session. 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
