@@ -84,10 +84,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: ECCV 2022. 
+        title: ECCV 2022
         link: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf
         link_text: [Link to Paper] 
-        sub_title: 
+        sub_title: Top-tier Conference in Computer Vision
         caption: 
         quote: >
           Helpful or Harmful: Inter-Task Association in Continual Learning, **Hyundong Jin** and Eunwoo Kim
@@ -101,11 +101,11 @@ content:
                     We apply the proposed approach to both task- and class-incremental scenarios in continual learning, using a wide range of datasets from small to large scales.
                     Experimental results show that the proposed method outperforms a large variety of continual learning approaches for the experiments while effectively alleviating catastrophic forgetting.
       - layout: left
-        title: IEEE Access 2022. 
+        title: IEEE Access 2022
         sub_title: 
         link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
         link_text: [Link to Paper]
-        caption:
+        caption: Impact Factor: 3.367
         quote: >
            Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yoon, and Eunwoo Kim 
         description: |
