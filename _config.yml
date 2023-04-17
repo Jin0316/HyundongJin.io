@@ -45,8 +45,8 @@ github_username:  Jin0316
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-# about_profile_image: images/profile_hyundongjin.png
+about_title: About Me
+about_profile_image: images/profile_hyundongjin.png
 
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Hyundong and I'm a Ph.D candidate in ChunAng-University, Seoul, South Korea. 
