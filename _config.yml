@@ -91,7 +91,7 @@ content:
     content:
       - layout: left
         title: ECCV 2022. 
-        link: https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association
+        link: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf
         sub_title: 
         caption: 
         quote: >
@@ -106,11 +106,10 @@ content:
                     We apply the proposed approach to both task- and class-incremental scenarios in continual learning, using a wide range of datasets from small to large scales.
                     Experimental results show that the proposed method outperforms a large variety of continual learning approaches for the experiments while effectively alleviating catastrophic forgetting.
       - layout: left
-        title: IEEE Access, 2022. 
-        # link_text: boringcompany.com
+        title: IEEE Access 2022. 
         sub_title: 
         link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483
-        caption: IEEE Access 2022. 
+        caption:
         quote: >
            Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yoon, and Eunwoo Kim 
         description: |
