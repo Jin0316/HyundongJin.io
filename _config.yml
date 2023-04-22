@@ -95,7 +95,7 @@ content:
         quote: >
           Helpful or Harmful: Inter-Task Association in Continual Learning, **Hyundong Jin** and Eunwoo Kim
         description: | # this will include new lines to allow paragraphs
-           ![ECCV_image](images/ECCV_2022_jin.png)
+           ![ECCV_image](images/ECCV_2022_Jin.png)
 
       - layout: left
         title: IEEE Access 2022
