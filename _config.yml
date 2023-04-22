@@ -106,7 +106,7 @@ content:
         quote: >
         description: |
            #### Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yun, and Eunwoo Kim 
-           ![IEEC_Access_2022_image](images/IEEE_Access_2022_Jin.png)
+           ![IEEE_Access_2022_image](images/IEEE_Access_2022_Jin.png)
             
   - title: Invited Talk  # Title for the section
     layout: list # Type of content section (list/text)
