@@ -117,7 +117,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            2023 Korean Computer Vision Society (KCVS), Continual Learning session.
+            ##### 2023 Korean Computer Vision Society (KCVS), Continual Learning session.
       - layout: left
         title: Dec. 2022
         link: 
@@ -126,7 +126,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            2022 Korean Artificial Intelligence Association (KAIA) and NAVER, CV / NLP session. 
+            ##### 2022 Korean Artificial Intelligence Association (KAIA) and NAVER, CV / NLP session. 
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
