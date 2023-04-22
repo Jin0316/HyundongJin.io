@@ -7,11 +7,10 @@ version: 2
 
 # Personal info
 name: Hyundong Jin 
-link: images/CV.pdf
-link_text: CV
 title: Curriculum Vitae
 email: jude0316@cau.ac.kr
 website: https://vllab.cau.ac.kr/members/
+
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -32,6 +31,9 @@ github_username:  Jin0316
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
+additional_links:
+- title: CV
+  url: images/CV.pdf
 # additional_links:
 # - title: itsgoingto.be
 #   icon: fas fa-globe
