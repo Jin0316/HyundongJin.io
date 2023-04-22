@@ -33,7 +33,7 @@ github_username:  Jin0316
 # Additional icon links
 additional_links:
 - title: CV
-  icon: fab file-user
+  icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
   url: https://github.com/Jin0316/HyundongJin.io/raw/main/images/CV.pdf
 # additional_links:
 # - title: itsgoingto.be
