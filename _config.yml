@@ -94,7 +94,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-           Helpful or Harmful: Inter-Task Association in Continual Learning, **Hyundong Jin** and Eunwoo Kim
+           #####Helpful or Harmful: Inter-Task Association in Continual Learning, **Hyundong Jin** and Eunwoo Kim
            ![ECCV_2022_image](images/ECCV_2022_Jin.png)
            
       - layout: left
@@ -105,7 +105,7 @@ content:
         caption: Impact Factor 3.367
         quote: >
         description: |
-           ### Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yun, and Eunwoo Kim 
+           #####Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yun, and Eunwoo Kim 
            ![IEEC_Access_2022_image](images/IEEE_Access_2022_Jin.png)
             
   - title: Invited Talk  # Title for the section
