@@ -33,7 +33,7 @@ github_username:  Jin0316
 # Additional icon links
 additional_links:
 - title: CV
-  icon: fas fa-globe
+  icon: file-user
   url: https://github.com/Jin0316/HyundongJin.io/raw/main/images/CV.pdf
 # additional_links:
 # - title: itsgoingto.be
