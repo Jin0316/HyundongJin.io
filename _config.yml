@@ -88,7 +88,8 @@ content:
     content:
       - layout: left
         title: ECCV 2022
-
+        link: https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
+        link_text: Google Scholar
         sub_title: Top-tier Conference in Computer Vision & Machine Learning
         caption: 
         quote: >
