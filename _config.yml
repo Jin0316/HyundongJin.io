@@ -95,7 +95,7 @@ content:
         quote: >
           Helpful or Harmful: Inter-Task Association in Continual Learning, **Hyundong Jin** and Eunwoo Kim
         description: | # this will include new lines to allow paragraphs
-           ![ECCV_image](images/ECCV_2022_Jin.png)
+           ![ECCV_2022_image](images/ECCV_2022_Jin.png)
 
       - layout: left
         title: IEEE Access 2022
@@ -106,17 +106,7 @@ content:
         quote: >
            Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, **Hyundong Jin**, Kimin Yun, and Eunwoo Kim 
         description: |
-          Abstract: Catastrophic forgetting is a well-known tendency in continual learning of a deep neural network to forget previously learned knowledge when optimizing for sequentially incoming tasks. 
-                    To address the issue, several methods have been proposed in research on continual learning. 
-                    However, these methods cannot preserve the previously learned knowledge when training for a new task. 
-                    Moreover, these methods are susceptible to negative interference between tasks, which may lead to catastrophic forgetting. 
-                    It even becomes increasingly severe when there exists a notable gap between the domains of tasks. 
-                    This paper proposes a novel method of controlling gates to select a subset of parameters learned for old tasks, which are then used to optimize a new task while avoiding negative interference efficiently. 
-                    The proposed approach executes the subset of old parameters that provides positive responses by evaluating the effect when the old and new parameters are used together. 
-                    The execution or skipping of old parameters through the gates is based on several responses across the network. 
-                    We evaluate the proposed method in different continual learning scenarios involving image classification datasets. 
-                    The proposed method outperforms other competitive methods and requires fewer parameters than the state-of-the-art methods during inference by applying the proposed gating mechanism that selectively involves a set of old parameters that provides positive prior knowledge to newer tasks. 
-                    Additionally, we further prove the effectiveness of the proposed method through various analyses.
+           ![IEEC_Access_2022_image](images/IEEE_Access_2022_Jin.png)
             
   - title: Invited Talk  # Title for the section
     layout: list # Type of content section (list/text)
