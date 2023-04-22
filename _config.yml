@@ -31,10 +31,6 @@ github_username:  Jin0316
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: CV
-  icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-  url: https://github.com/Jin0316/HyundongJin.io/raw/main/images/CV.pdf
 # additional_links:
 # - title: itsgoingto.be
 #   icon: fas fa-globe
@@ -61,8 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
  
   His research interests include deep learning, machine learning, continual learning, and computer vision.
 
-  He is most skilled in: Continual Learning.
-
+  He is most skilled in: Continual Learning. [**CV**](https://github.com/Jin0316/HyundongJin.io/raw/main/images/CV.pdf)
 content:
 
   - title: Education  # Title for the section
