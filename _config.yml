@@ -152,21 +152,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 
+        title: 2020 - 2021
         sub_title: 
         caption: 
         quote: >
+          Funded by Electronics and Telecommunications Research Institute (ETRI)
         description: | # this will include new lines to allow paragraphs
-            #### s
+            #### A Study on Visual Embedding for Memory Similarity Analysis
+            
+            #### Development of visual memory efficient multi-task learning technology
+            
       - layout: left
-        title: 
+        title: 2020
         link: 
         # link_text: boringcompany.com
         sub_title: 
         caption: 
         quote: >
+            Funded by NRF
         description: | # this will include new lines to allow paragraphs
-            #### 
+            #### Automated Deep Learning Technology for Multi-Task Learning 
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
