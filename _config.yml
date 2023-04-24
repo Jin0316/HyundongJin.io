@@ -149,8 +149,8 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### A Study on Visual Embedding for Memory Similarity Analysis
-            #### Development of visual memory efficient multi-task learning technology
+            #### [2020] A Study on Visual Embedding for Memory Similarity Analysis
+            #### [2021] Development of visual memory efficient multi-task learning technology
             #### _Funded by Electronics and Telecommunications Research Institute (ETRI)_
             
       - layout: left
