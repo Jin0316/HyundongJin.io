@@ -127,36 +127,32 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             #### 2022 Korean Artificial Intelligence Association (KAIA) and NAVER, CV / NLP session. 
+           
             
-  - title: Project Experiences # Title for the section
+  - title: Teaching Experiments # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 
-        link: 
-        # link_text: boringcompany.com
+        title: Oct. 2020
         sub_title: 
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### s
+            #### Visual Intelligence and it's Applications 
+            
       - layout: left
         title: 
-        link: 
-        # link_text: boringcompany.com
         sub_title: 
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
             #### 
             
-  - title: Teaching Experiments # Title for the section
+  - title: Project Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 
-        link: 
-        # link_text: boringcompany.com
         sub_title: 
         caption: 
         quote: >
