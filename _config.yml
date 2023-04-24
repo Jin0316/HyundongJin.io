@@ -135,27 +135,28 @@ content:
         title: 2022
         sub_title: 
         caption: 
-        quote: > Funded by IITP
+        quote: >
         description: | # this will include new lines to allow paragraphs
             #### Development of AI for Self-Improving Competency-Aware Learning
-            
+            ##### Funded by IITP
       - layout: left
         title: 2020 - 2021
         sub_title: 
         caption: 
-        quote: > Funded by Electronics and Telecommunications Research Institute (ETRI)
+        quote: > 
         description: | # this will include new lines to allow paragraphs
             #### A Study on Visual Embedding for Memory Similarity Analysis
-            
             #### Development of visual memory efficient multi-task learning technology
+            ##### Funded by Electronics and Telecommunications Research Institute (ETRI)
+            
       - layout: left
         title: 2020 - 2022
         sub_title: 
         caption: 
-        quote: > Funded by NRF
+        quote: > 
         description: | # this will include new lines to allow paragraphs
             #### Automated Deep Learning Technology for Multi-Task Learning 
-            
+            #### Funded by NRF
   - title: Teaching Experiments # Title for the section
     layout: list # Type of content section (list/text)
     content:
