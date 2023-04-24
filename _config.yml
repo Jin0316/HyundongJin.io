@@ -117,7 +117,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### 2023 Korean Computer Vision Society (KCVS), Continual Learning session.
+            #### Korean Computer Vision Society (KCVS), Continual Learning session.
       - layout: left
         title: Dec. 2022
         link: 
@@ -126,7 +126,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### 2022 Korean Artificial Intelligence Association (KAIA) and NAVER, CV / NLP session. 
+            #### Korean Artificial Intelligence Association (KAIA) and NAVER, CV / NLP session. 
            
             
   - title: Teaching Experiments # Title for the section
@@ -138,7 +138,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### Visual Intelligence and it's Applications in Electronics and Telecommunications Research Institute (ETRI)
+            #### Visual Intelligence and it's Applications in Electronics and Telecommunications Research Institute (**ETRI**)
             
       - layout: left
         title: 
