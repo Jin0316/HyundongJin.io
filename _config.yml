@@ -148,7 +148,7 @@ content:
             #### Visual Intelligence and it's Applications in Electronics and Telecommunications Research Institute (**ETRI**)
             
   - title: Project Experiences # Title for the section
-    layout: list 
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 2022
