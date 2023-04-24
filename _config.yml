@@ -140,7 +140,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             #### Development of AI for Self-Improving Competency-Aware Learning
-            ##### Funded by IITP
+            #### _Funded by IITP_
       - layout: left
         title: 2020 - 2021.
         link: 
@@ -151,7 +151,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             #### A Study on Visual Embedding for Memory Similarity Analysis
             #### Development of visual memory efficient multi-task learning technology
-            ##### Funded by Electronics and Telecommunications Research Institute (ETRI)
+            #### _Funded by Electronics and Telecommunications Research Institute (ETRI)_
             
       - layout: left
         title: 2020 - 2022.
@@ -162,7 +162,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             #### Automated Deep Learning Technology for Multi-Task Learning 
-            #### Funded by NRF
+            #### _Funded by NRF_
             
   - title: Teaching Experiments # Title for the section
     layout: list # Type of content section (list/text)
