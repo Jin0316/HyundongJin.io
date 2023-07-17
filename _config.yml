@@ -96,8 +96,9 @@ content:
         description: | # this will include new lines to allow paragraphs
            #### Growing a Brain: Sparsity-Inducing Generation for Continual Learning, 
            
-           **Hyundong Jin**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim (Accepted)
-        
+           **Hyundong Jin^{*}**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim (Accepted)
+           * denote for first author.
+           
       - layout: left
         title: ECCV 2022
         link: https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
