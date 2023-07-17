@@ -87,6 +87,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: ICCV 2023
+        link: https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
+        link_text: Google Scholar
+        sub_title: Top-tier Conference in Computer Vision & Machine Learning
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+           #### Growing a Brain: Sparsity-Inducing Generation for Continual Learning, 
+           
+           **Hyundong Jin**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim (Accepted)
+        
+        - layout: left
         title: ECCV 2022
         link: https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
         link_text: Google Scholar
