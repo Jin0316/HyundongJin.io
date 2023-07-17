@@ -94,9 +94,9 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-           #### Growing a Brain: Sparsity-Inducing Generation for Continual Learning, 
+           #### Growing a Brain: Sparsity-Inducing Generation for Continual Learning (Accepted), 
            
-           **Hyundong Jin**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim (Accepted)
+           **Hyundong Jin**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim 
            
            **bold font** for first author
            
