@@ -96,8 +96,8 @@ content:
         description: | # this will include new lines to allow paragraphs
            #### Growing a Brain: Sparsity-Inducing Generation for Continual Learning, 
            
-           **Hyundong Jin^{*}**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim (Accepted)
-           * denote for first author.
+           **$$Hyundong Jin^{1}$$**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim (Accepted)
+           $$1$$ denote for first author.
            
       - layout: left
         title: ECCV 2022
@@ -109,7 +109,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            #### Helpful or Harmful: Inter-Task Association in Continual Learning, 
            
-           **Hyundong Jin** and Eunwoo Kim [ [Paper] ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)
+           **$$Hyundong Jin^{1}$$** and Eunwoo Kim [ [Paper] ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)
            
            ![ECCV_2022_image](images/ECCV_2022_Jin.png) 
            
@@ -121,7 +121,7 @@ content:
         description: |
            #### Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, 
            
-           **Hyundong Jin**, Kimin Yun, and Eunwoo Kim [ [Paper] ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483)
+           **$$Hyundong Jin^{1}$$**, Kimin Yun, and Eunwoo Kim [ [Paper] ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483)
            
            ![IEEE_Access_2022_image](images/IEEE_Access_2022_Jin.png)
             
