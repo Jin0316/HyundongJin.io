@@ -98,9 +98,6 @@ content:
            
            **Hyundong Jin**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim. (**bold font** for first author)
            
-           <img src="https://github.com/Jin0316/HyundongJin.io/blob/main/images/ICCV_2023_Jin.jpg" width=30% height=30%>
-            
-           
       - layout: left
         title: ECCV 2022
         link: https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
@@ -113,7 +110,7 @@ content:
            
            **Hyundong Jin** and Eunwoo Kim (**bold font** for first author) [ [Paper] ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf) [ [Code] ](https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association)
            
-           <img src="https://github.com/Jin0316/HyundongJin.io/blob/main/images/ECCV_2022_Jin.png" width=30% height=30%>
+           ![ECCV_2022_image](images/ECCV_2022_Jin.png) 
            
       - layout: left
         title: IEEE Access 2022
@@ -125,8 +122,8 @@ content:
            
            **Hyundong Jin**, Kimin Yun, and Eunwoo Kim (**bold font** for first author) [ [Paper] ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483)
            
-           <img src="https://github.com/Jin0316/HyundongJin.io/blob/main/images/IEEE_Access_2022_Jin.png" width=30% height=30%>
-                       
+           ![IEEE_Access_2022_image](images/IEEE_Access_2022_Jin.png)
+            
   - title: Invited Talks  # Title for the section
     layout: list # Type of content section (list/text)
     content:
