@@ -108,7 +108,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            #### Helpful or Harmful: Inter-Task Association in Continual Learning, 
            
-           **Hyundong Jin** and Eunwoo Kim (**bold font** for first author) [ [Paper] ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf)
+           **Hyundong Jin** and Eunwoo Kim (**bold font** for first author) [ [Paper] ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf) [ [Code] ](https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association)
            
            ![ECCV_2022_image](images/ECCV_2022_Jin.png) 
            
