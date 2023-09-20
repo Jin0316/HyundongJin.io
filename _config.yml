@@ -189,7 +189,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Automated Deep Learning Technology for Multi-Task Learning 
             
-            _Funded by NRF_
+            _Funded by National Research Foundation_
             
   - title: Teaching Experiments # Title for the section
     layout: list # Type of content section (list/text)
