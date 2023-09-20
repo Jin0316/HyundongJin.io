@@ -175,9 +175,9 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Learning Transferable Task Knowledge for Social Robots
+            Learning Transferable Task Knowledge and Planner for Service Robots
             
-            _Funded by Samsung Science & Technology Foundation_      
+            _Funded by Samsung Research Funding & Incubation Center_      
             
       - layout: left
         title: 2020 - 2021.
