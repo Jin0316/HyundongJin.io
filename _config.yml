@@ -155,18 +155,7 @@ content:
   - title: Project Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: 2020 - present.
-        link: 
-        link_text: 
-        sub_title:
-        caption: 
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-            Development of AI for Self-Improving Competency-Aware Learning
-            
-            _Funded by IITP_
-            
+
       - layout: left
         title: 2021 - present.
         link: 
@@ -178,6 +167,19 @@ content:
             Learning Transferable Task Knowledge and Planner for Service Robots
             
             _Funded by Samsung Research Funding & Incubation Center_      
+    
+      - layout: left
+        title: 2020 - present.
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            Development of AI for Self-Improving Competency-Aware Learning
+            
+            _Funded by IITP_
+
             
       - layout: left
         title: 2020 - 2022.
