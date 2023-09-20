@@ -94,7 +94,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-           #### Growing a Brain: Sparsity-Inducing Generation for Continual Learning (Accepted), 
+           #### Growing a Brain with Sparsity-Inducing Generation for Continual Learning (Accepted), 
            
            **Hyundong Jin**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim. (**bold font** for first author)
 
@@ -166,6 +166,18 @@ content:
             Development of AI for Self-Improving Competency-Aware Learning
             
             _Funded by IITP_
+            
+      - layout: left
+        title: 2021-present
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            Learning Transferable Task Knowledge for Social Robots
+            
+            _Funded by Samsung Science & Technology Foundation_      
             
       - layout: left
         title: 2020 - 2021.
