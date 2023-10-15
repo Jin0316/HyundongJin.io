@@ -94,9 +94,9 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-           #### Growing a Brain with Sparsity-Inducing Generation for Continual Learning (Accepted), 
+           #### Growing a Brain with Sparsity-Inducing Generation for Continual Learning, 
            
-           **Hyundong Jin**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim. 
+           **Hyundong Jin**, Gyeong-Hyeon Kim, Chanho Ahn, and Eunwoo Kim. [ [Paper] ](https://openaccess.thecvf.com/content/ICCV2023/papers/Jin_Growing_a_Brain_with_Sparsity-Inducing_Generation_for_Continual_Learning_ICCV_2023_paper.pdf) [ [Code] ](https://github.com/Jin0316/GrowBrain)
 
            ![ICCV_2023_image](images/ICCV_2023_Jin.jpg) 
            
