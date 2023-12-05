@@ -205,7 +205,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 2021. 
+        title: 2023. 
         link: 
         link_text: 
         sub_title:
