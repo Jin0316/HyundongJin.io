@@ -83,7 +83,7 @@ content:
 
 ##### Paper #####
 
-  - title: Published Papers  # Title for the section
+  - title: International Conference  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -109,11 +109,25 @@ content:
            #### Helpful or Harmful: Inter-Task Association in Continual Learning, 
            
            **Hyundong Jin** and Eunwoo Kim [ [Paper] ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710518.pdf) [ [Code] ](https://github.com/Jin0316/Helpful-or-Harmful-Inter-Task-Association)
-                      
+ 
+  - title: International Journal  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IEEE Access 2023
+        sub_title: International Journal
+        caption: 
+        quote: >
+        description: |
+           #### Task-Aware Dynamic Model Optimization for Multi-Task Learning, (Accepted)
+
+           Sujin Choi*, Hyundong Jin*, and Eunwoo Kim (* denotes for equal contribution)
+           
+           
       - layout: left
         title: IEEE Access 2022
         sub_title: International Journal
-        caption: Impact Factor 3.367
+        caption: Impact Factor 3.367 (2022)
         quote: >
         description: |
            #### Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, 
