@@ -212,6 +212,15 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
+            Advanced Artificial Intelligence (Teaching Assistant) in Chung-Ang University (CAU)
+      - layout: left
+        title: 2021. 
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
             Capstone Design (Teaching Assistant) in Chung-Ang University (CAU)
             
       - layout: left
