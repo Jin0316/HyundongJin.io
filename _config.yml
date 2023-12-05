@@ -165,14 +165,14 @@ content:
     content:
 
       - layout: left
-        title: 2021 - present.
+        title: 2021 - 2023.
         link: 
         link_text: 
         sub_title:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Learning Transferable Task Knowledge and Planner for Service Robots
+            #### Learning Transferable Task Knowledge and Planner for Service Robots
             
             _Funded by Samsung Research Funding & Incubation Center_      
     
@@ -184,7 +184,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Development of AI for Self-Improving Competency-Aware Learning
+            #### Development of AI for Self-Improving Competency-Aware Learning
             
             _Funded by IITP_
 
@@ -197,7 +197,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Automated Deep Learning Technology for Multi-Task Learning 
+            #### Automated Deep Learning Technology for Multi-Task Learning 
             
             _Funded by National Research Foundation_
             
@@ -212,7 +212,8 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Advanced Artificial Intelligence (Teaching Assistant) in Chung-Ang University (CAU)
+            #### Advanced Artificial Intelligence (Teaching Assistant) in Chung-Ang University (CAU)
+            
       - layout: left
         title: 2021. 
         link: 
@@ -221,7 +222,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Capstone Design (Teaching Assistant) in Chung-Ang University (CAU)
+            #### Capstone Design (Teaching Assistant) in Chung-Ang University (CAU)
             
       - layout: left
         title: 2020.
@@ -231,7 +232,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Visual Intelligence and it's Applications in Electronics and Telecommunications Research Institute (ETRI)
+            #### Visual Intelligence and it's Applications in Electronics and Telecommunications Research Institute (ETRI)
             
       - layout: left
         title: 2020. 
@@ -241,7 +242,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            Algorithms (Teaching Assistant) in Chung-Ang University (CAU)
+            #### Algorithms (Teaching Assistant) in Chung-Ang University (CAU)
            
 # Footer
 footer_show_references: false
