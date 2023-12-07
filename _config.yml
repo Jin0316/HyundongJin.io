@@ -121,7 +121,7 @@ content:
         description: |
            #### Task-Aware Dynamic Model Optimization for Multi-Task Learning, (Accepted)
 
-           Sujin Choi <sup>\*</sup>, **Hyundong Jin** <sup>\*</sup>, and Eunwoo Kim (* denotes for equal contribution)
+           Sujin Choi <sup>\*</sup>, **Hyundong Jin** <sup>\*</sup>, and Eunwoo Kim (* denotes for equal contribution) [ [Paper] ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345562)
            
            
       - layout: left
@@ -132,7 +132,7 @@ content:
         description: |
            #### Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, 
            
-           **Hyundong Jin**, Kimin Yun, and Eunwoo Kim (**bold font** for first author) [ [Paper] ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483)
+           **Hyundong Jin**, Kimin Yun, and Eunwoo Kim [ [Paper] ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483)
                        
   - title: Invited Talks  # Title for the section
     layout: list # Type of content section (list/text)
