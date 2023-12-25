@@ -137,16 +137,6 @@ content:
   - title: Invited Talks  # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Sep. 2023.
-        link: 
-        sub_title: 
-        caption: 
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-            #### Ahn Lab, 
-            
-            Continual learning.
             
       - layout: left
         title: Feb. 2023.
