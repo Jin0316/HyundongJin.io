@@ -137,6 +137,17 @@ content:
   - title: Invited Talks  # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Feb. 2023.
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### AhnLab,
+
+            Continual Learning
             
       - layout: left
         title: Feb. 2023.
@@ -164,7 +175,17 @@ content:
   - title: Project Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
-
+      - layout: left
+        title: 2024.
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Multi-Modal Continual Learning with Context Understanding
+            
+            _Funded by National Research Foundation_   
       - layout: left
         title: 2021 - 2023.
         link: 
@@ -201,6 +222,33 @@ content:
             #### Automated Deep Learning Technology for Multi-Task Learning 
             
             _Funded by National Research Foundation_
+
+  - title: Awards # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 2023.
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Grand Prize, Big Data Utilization Award
+            
+            _by Doosan Enerbility_   
+
+      - layout: left
+        title: 2023.
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Excellence Prize, Big Data Utilization Award
+            
+            _by HD Hyundai XiteSolution_   
             
   - title: Teaching Experiments # Title for the section
     layout: list # Type of content section (list/text)
