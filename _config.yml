@@ -119,7 +119,7 @@ content:
         caption: Impact Factor 3.476 (2023)
         quote: >
         description: |
-           #### Task-Aware Dynamic Model Optimization for Multi-Task Learning, (Accepted)
+           #### Task-Aware Dynamic Model Optimization for Multi-Task Learning,
 
            Sujin Choi <sup>\*</sup>, **Hyundong Jin** <sup>\*</sup>, and Eunwoo Kim (* denotes for equal contribution) [ [Paper] ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10345562)
            
@@ -172,7 +172,7 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### A neural network apparatus and neural network learning method for performing continuous learning using a correlation analysis algorithm between tasks
+            #### A Neural Network Apparatus and Neural Network Learning Method for Performing Continuous Learning Using a Correlation Analysis Algorithm Between Tasks
             
             _Republic of Korea. 10-2022-0101187_   
             
