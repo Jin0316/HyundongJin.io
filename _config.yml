@@ -133,44 +133,49 @@ content:
            #### Gating Mechanism in Deep Neural Networks for Resource-Efficient Continual Learning, 
            
            **Hyundong Jin**, Kimin Yun, and Eunwoo Kim [ [Paper] ](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9695483)
-                       
-  - title: Invited Talks  # Title for the section
+
+  - title: Awards # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Feb. 2023.
+        title: 2023.
         link: 
-        # link_text: boringcompany.com
-        sub_title: 
+        link_text: 
+        sub_title:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### AhnLab,
+            #### Grand Prize, Big Data Utilization Contest
+            
+            _by Doosan Enerbility_   
 
-            Continual Learning
-            
       - layout: left
-        title: Feb. 2023.
+        title: 2023.
         link: 
-        # link_text: boringcompany.com
-        sub_title: 
+        link_text: 
+        sub_title:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### Korean Computer Vision Society (**KCVS**), 
+            #### Excellence Prize, Big Data Utilization Contest
             
-            Continual Learning session.
+            _by HD Hyundai XiteSolution_   
+
+  - title: Patents # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
-        title: Dec. 2022.
+        title: 2023.
         link: 
-        # link_text: boringcompany.com
-        sub_title: 
+        link_text: 
+        sub_title:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### Korean Artificial Intelligence Association (**KAIA**) and **NAVER**, 
+            #### A neural network apparatus and neural network learning method for performing continuous learning using a correlation
+analysis algorithm between tasks
             
-            CV / NLP session. 
+            _Republic of Korea. 10-2022-0101187_   
             
   - title: Project Experiences # Title for the section
     layout: list # Type of content section (list/text)
@@ -223,32 +228,43 @@ content:
             
             _Funded by National Research Foundation_
 
-  - title: Awards # Title for the section
+  - title: Invited Talks  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 2023.
+        title: Feb. 2023.
         link: 
-        link_text: 
-        sub_title:
+        # link_text: boringcompany.com
+        sub_title: 
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### Grand Prize, Big Data Utilization Contest
-            
-            _by Doosan Enerbility_   
+            #### AhnLab,
 
+            Continual Learning
+            
       - layout: left
-        title: 2023.
+        title: Feb. 2023.
         link: 
-        link_text: 
-        sub_title:
+        # link_text: boringcompany.com
+        sub_title: 
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-            #### Excellence Prize, Big Data Utilization Contest
+            #### Korean Computer Vision Society (**KCVS**), 
             
-            _by HD Hyundai XiteSolution_   
+            Continual Learning session.
+      - layout: left
+        title: Dec. 2022.
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Korean Artificial Intelligence Association (**KAIA**) and **NAVER**, 
+            
+            CV / NLP session. 
             
   - title: Teaching Experiments # Title for the section
     layout: list # Type of content section (list/text)
