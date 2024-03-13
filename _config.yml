@@ -281,6 +281,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 2024. 
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Machine Learning (Teaching Assistant) in Chung-Ang University (CAU)
+            
+      - layout: left
         title: 2023. 
         link: 
         link_text: 
