@@ -187,6 +187,18 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
+            #### Time-Series Action Prediction and Segmentation
+            
+            _Funded by HD Hyundai Construction Equipment_   
+            
+      - layout: left
+        title: 2024 - present.
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
             #### Multi-Modal Continual Learning with Context Understanding
             
             _Funded by National Research Foundation_   
