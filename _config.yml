@@ -115,6 +115,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Pattern Recognition Letters 2025 
+        sub_title: International Journal
+        caption: 
+        quote: >
+        description: |
+           #### Dataset Condensation with Coarse-to-Fine Regularization,
+
+           Hyundong Jin and Eunwoo Kim (Accepted)
+           
+      - layout: left
         title: IEEE Access 2023
         sub_title: International Journal
         caption: Impact Factor 3.476 (2023)
@@ -165,6 +175,18 @@ content:
   - title: Patents # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: 2024.
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Apparatus and Method for Continuous Learning of Neural Networks
+            
+            _Republic of Korea. 10-2023-0156623_   
+            
       - layout: left
         title: 2023.
         link: 
