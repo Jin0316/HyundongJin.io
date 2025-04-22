@@ -115,6 +115,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Neural Networks 2025  
+        sub_title: International Journal
+        caption: 
+        quote: >
+        description: |
+           #### Exploration and Exploitation in Continual Learning
+
+           Kiseong Hong, **Hyundong Jin**, Sungho Suh, and Eunwoo Kim [ [Paper] ](https://www.sciencedirect.com/science/article/pii/S0893608025003235)
+           
+      - layout: left
         title: Pattern Recognition Letters 2025 
         sub_title: International Journal
         caption: 
@@ -122,7 +132,7 @@ content:
         description: |
            #### Dataset Condensation with Coarse-to-Fine Regularization,
 
-           **Hyundong Jin** and Eunwoo Kim (Accepted)
+           **Hyundong Jin** and Eunwoo Kim [ [Paper] ](https://www.sciencedirect.com/science/article/pii/S0167865524003726?via%3Dihub)
            
       - layout: left
         title: IEEE Access 2023
@@ -203,7 +213,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 2024 - present.
+        title: 2024.
         link: 
         link_text: 
         sub_title:
