@@ -362,7 +362,40 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
             #### Algorithms (Teaching Assistant) in Chung-Ang University (CAU)
-           
+
+  - title: Academic Services # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title:  
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Computer Vision and Pattern Recognition (CVPR)
+            
+      - layout: left
+        title:  
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### International Conference on Computer Vision (ICCV)
+            
+      - layout: left
+        title:  
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Transactions on Neural Networks and Learning Systems (TNNLS)
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
