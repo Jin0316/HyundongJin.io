@@ -96,7 +96,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            #### Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models (Accepted), 
            
-           **Hyundong Jin** Hyung Jin Chang, and Eunwoo Kim
+           **Hyundong Jin**, Hyung Jin Chang, and Eunwoo Kim
            
       - layout: left
         title: ICCV 2023
