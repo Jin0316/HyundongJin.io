@@ -237,6 +237,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 2024 - 2025.
+        link: 
+        link_text: 
+        sub_title:
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+            #### Multi-Modal Continual Learning with Context Understanding
+            
+            _Funded by National Research Foundation_   
+            
+      - layout: left
         title: 2024.
         link: 
         link_text: 
@@ -248,17 +260,6 @@ content:
             
             _Funded by HD Hyundai Construction Equipment_   
             
-      - layout: left
-        title: 2024 - present.
-        link: 
-        link_text: 
-        sub_title:
-        caption: 
-        quote: >
-        description: | # this will include new lines to allow paragraphs
-            #### Multi-Modal Continual Learning with Context Understanding
-            
-            _Funded by National Research Foundation_   
       - layout: left
         title: 2021 - 2023.
         link: 
@@ -272,7 +273,7 @@ content:
             _Funded by Samsung Research Funding & Incubation Center_      
     
       - layout: left
-        title: 2020 - present.
+        title: 2020 - 2024.
         link: 
         link_text: 
         sub_title:
@@ -402,7 +403,11 @@ content:
 
             #### International Conference on Computer Vision (ICCV)
 
+            #### European Conference on Computer Vision (ECCV)
+            
             #### The Association for the Advancement of Artificial Intelligence (AAAI) 
+
+            #### International Conference on Learning Representations (ICLR)
 
             #### Winter Conference on Applications of Computer Vision (WACV)
             
