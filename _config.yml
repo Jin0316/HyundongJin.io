@@ -87,6 +87,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: ICLR 2026
+        link: https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence
+        link_text: Google Scholar
+        sub_title: Top-tier Conference in Computer Vision & Machine Learning
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+           #### XIL: Cross-Expanding Incremental Learning (Accepted), 
+           
+           Heayoun Choi, **Hyundong Jin**, and Eunwoo Kim
+           
+      - layout: left
         title: ICCV 2025 
         link: https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
         link_text: Google Scholar
@@ -94,9 +106,9 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-           #### Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models (Accepted), 
+           #### Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models, 
            
-           **Hyundong Jin**, Hyung Jin Chang, and Eunwoo Kim
+           **Hyundong Jin**, Hyung Jin Chang, and Eunwoo Kim [ [Paper] ](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_Instruction-Grounded_Visual_Projectors_for_Continual_Learning_of_Generative_Vision-Language_Models_ICCV_2025_paper.pdf) 
            
       - layout: left
         title: ICCV 2023
