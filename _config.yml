@@ -87,6 +87,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: CVPR 2026
+        link: https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition
+        link_text: Google Scholar
+        sub_title: Top-tier Conference in Computer Vision & Machine Learning
+        caption: 
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+           #### Which Concepts to Forget and How to Refuse? Decomposing Concepts for Continual Unlearning in Large Vision-Language Models (Accepted), 
+           
+           **Hyundong Jin**, Dongyoon Han and Eunwoo Kim
+           
+      - layout: left
         title: ICLR 2026
         link: https://scholar.google.es/citations?view_op=top_venues&hl=en&vq=eng_artificialintelligence
         link_text: Google Scholar
