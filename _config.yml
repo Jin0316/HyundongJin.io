@@ -106,9 +106,9 @@ content:
         caption: 
         quote: >
         description: | # this will include new lines to allow paragraphs
-           #### XIL: Cross-Expanding Incremental Learning (Accepted), 
+           #### XIL: Cross-Expanding Incremental Learning, 
            
-           Heayoun Choi, **Hyundong Jin**, and Eunwoo Kim
+           Heayoun Choi, **Hyundong Jin**, and Eunwoo Kim [ [Paper] ](https://openreview.net/forum?id=eaAGI1lIb4)
            
       - layout: left
         title: ICCV 2025 
